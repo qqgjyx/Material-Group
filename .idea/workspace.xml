@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa65d8cd-2c06-41a8-9c04-cd031154f053" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ramanActiveMode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ramanActiveMode.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ramanActiveMode.png" beforeDir="false" afterPath="$PROJECT_DIR$/ramanActiveMode.png" afterDir="false" />
     </list>
@@ -23,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -98,6 +98,7 @@
       <workItem from="1708002545952" duration="760000" />
       <workItem from="1708172887527" duration="84000" />
       <workItem from="1708177310796" duration="9000" />
+      <workItem from="1708576358546" duration="967000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
