@@ -121,7 +121,7 @@
       <workItem from="1708576358546" duration="967000" />
       <workItem from="1711625486242" duration="1324000" />
       <workItem from="1711628011135" duration="160000" />
-      <workItem from="1711628713598" duration="565000" />
+      <workItem from="1711628713598" duration="837000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -171,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711629005782</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="v2 added polarization raman reader">
+      <option name="closed" value="true" />
+      <created>1711629481855</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711629481855</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
