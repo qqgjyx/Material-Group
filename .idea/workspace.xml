@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa65d8cd-2c06-41a8-9c04-cd031154f053" name="Changes" comment="v2 added polarization raman reader" />
+    <list default="true" id="fa65d8cd-2c06-41a8-9c04-cd031154f053" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/materialGroup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/materialGroup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ramanActiveMode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ramanActiveMode.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ramanActiveMode.png" beforeDir="false" afterPath="$PROJECT_DIR$/ramanActiveMode.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,8 +103,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.200" />
-        <option value="bundled-python-sdk-86178adc3299-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.200" />
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
@@ -122,6 +127,9 @@
       <workItem from="1711625486242" duration="1324000" />
       <workItem from="1711628011135" duration="160000" />
       <workItem from="1711628713598" duration="837000" />
+      <workItem from="1712114511953" duration="9000" />
+      <workItem from="1712282925241" duration="121000" />
+      <workItem from="1712284403457" duration="918000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
