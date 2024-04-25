@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa65d8cd-2c06-41a8-9c04-cd031154f053" name="Changes" comment="v2 added polarization raman reader">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RamanRead.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RamanRead.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processed_file.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/processed_file.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumed_file.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/resumed_file.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_data_output1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test_data_output1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transposed_file.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/transposed_file.xlsx" afterDir="false" />
-    </list>
+    <list default="true" id="fa65d8cd-2c06-41a8-9c04-cd031154f053" name="Changes" comment="v2 added polarization raman reader" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,8 +122,6 @@
       <workItem from="1711625486242" duration="1324000" />
       <workItem from="1711628011135" duration="160000" />
       <workItem from="1711628713598" duration="837000" />
-      <workItem from="1711630122620" duration="702000" />
-      <workItem from="1712281574529" duration="533000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -188,15 +179,7 @@
       <option name="project" value="LOCAL" />
       <updated>1711629481855</updated>
     </task>
-    <task id="LOCAL-00008" summary="v2 added polarization raman reader">
-      <option name="closed" value="true" />
-      <created>1711631149251</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1711631149251</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
