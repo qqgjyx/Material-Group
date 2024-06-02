@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa65d8cd-2c06-41a8-9c04-cd031154f053" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/.idea/materialGroup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/materialGroup.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atom_Cu_d.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atom_Cu_p.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atom_Cu_s.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atom_Cu_tot.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plotDOS.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ramanActiveMode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ramanActiveMode.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ramanActiveMode.png" beforeDir="false" afterPath="$PROJECT_DIR$/ramanActiveMode.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/qqgjyx/materialGroup.git&quot;,
-    &quot;accountId&quot;: &quot;8b2425f7-0a05-4a45-9397-b1af40f2c127&quot;
+    &quot;accountId&quot;: &quot;3bb2f17c-5497-45be-be0c-51fd5ef31f33&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -61,12 +63,13 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/juntangwang/PycharmProjects/materialGroup&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -103,7 +106,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
       </set>
     </attachedChunks>
   </component>
@@ -129,7 +133,13 @@
       <workItem from="1711628713598" duration="837000" />
       <workItem from="1712114511953" duration="9000" />
       <workItem from="1712282925241" duration="121000" />
-      <workItem from="1712284403457" duration="918000" />
+      <workItem from="1712284403457" duration="1727000" />
+      <workItem from="1712745974705" duration="90000" />
+      <workItem from="1712746121247" duration="165000" />
+      <workItem from="1712746293122" duration="9000" />
+      <workItem from="1712746308077" duration="1000" />
+      <workItem from="1716875724320" duration="3775000" />
+      <workItem from="1717310763598" duration="2479000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -187,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711629481855</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1">
+      <option name="closed" value="true" />
+      <created>1712290630979</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712290630979</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,9 +224,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="1" />
     <MESSAGE value="v2 added polarization raman reader" />
-    <option name="LAST_COMMIT_MESSAGE" value="v2 added polarization raman reader" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
