@@ -1,0 +1,3 @@
+[submodule "XTEC_"]
+	path = XTEC_
+	url = https://github.com/KimGroup/XTEC.git
