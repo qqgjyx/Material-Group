@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa65d8cd-2c06-41a8-9c04-cd031154f053" name="Changes" comment="1 with DOS">
-      <change beforePath="$PROJECT_DIR$/.idea/materialGroup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/materialGroup.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plotDOS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plotDOS.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XTEC_" beforeDir="false" afterPath="$PROJECT_DIR$/XTEC_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XTEC_/Tutorial_XTEC-d.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/XTEC_/Tutorial_XTEC-d.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experimental_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experimental_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landau_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/landau_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotTDDFT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plotTDDFT.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlk99_nm.plot_chi.dat" beforeDir="false" afterPath="$PROJECT_DIR$/tlk99_nm.plot_chi.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlk99_nm.plot_eps.dat" beforeDir="false" afterPath="$PROJECT_DIR$/tlk99_nm.plot_eps.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vibrationModel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/vibrationModel.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vibrational_modes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/vibrational_modes.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +44,12 @@
   &quot;prStates&quot;: []
 }</component>
   <component name="GitLabMergeRequestsSettings">{}</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/qqgjyx/materialGroup.git",
-    "accountId": "3bb2f17c-5497-45be-be0c-51fd5ef31f33"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/qqgjyx/materialGroup.git&quot;,
+    &quot;accountId&quot;: &quot;3bb2f17c-5497-45be-be0c-51fd5ef31f33&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -60,6 +68,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/juntangwang/PycharmProjects/materialGroup&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -67,9 +76,15 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Github\MATH-Group\materialGroup" />
     </key>
@@ -102,8 +117,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
-        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -130,7 +145,17 @@
       <workItem from="1712114511953" duration="9000" />
       <workItem from="1712282925241" duration="121000" />
       <workItem from="1712284403457" duration="918000" />
-      <workItem from="1717321608160" duration="5593000" />
+      <workItem from="1717321608160" duration="7491000" />
+      <workItem from="1717515704466" duration="110000" />
+      <workItem from="1717583182673" duration="1957000" />
+      <workItem from="1717656263238" duration="759000" />
+      <workItem from="1721159294291" duration="1155000" />
+      <workItem from="1721160595283" duration="115000" />
+      <workItem from="1721229357073" duration="867000" />
+      <workItem from="1721294959581" duration="2588000" />
+      <workItem from="1721336346325" duration="80000" />
+      <workItem from="1721358640706" duration="720000" />
+      <workItem from="1721361637962" duration="1073000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -188,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711629481855</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1 with DOS">
+      <option name="closed" value="true" />
+      <created>1717427285864</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717427285864</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +242,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1" />
     <MESSAGE value="v2 added polarization raman reader" />
-    <option name="LAST_COMMIT_MESSAGE" value="v2 added polarization raman reader" />
+    <MESSAGE value="1 with DOS" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 with DOS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
